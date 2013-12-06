@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-typeface
 Version:	0.1
-Release:	2
+Release:	3
 Summary:	Select a balanced set of fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/typeface
