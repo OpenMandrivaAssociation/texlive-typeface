@@ -1,6 +1,6 @@
 Name:		texlive-typeface
 Version:	27046
-Release:	1
+Release:	2
 Summary:	Select a balanced set of fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/typeface
