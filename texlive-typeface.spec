@@ -3,7 +3,7 @@ Version:	27046
 Release:	2
 Summary:	Select a balanced set of fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/typeface
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/typeface
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/typeface.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/typeface.doc.r%{version}.tar.xz
